@@ -8,7 +8,7 @@ I am a Front-end developer💻 using ReactJS and also a guy who likes to use Pyt
 
 * 🌍  I'm based in Kigali, Rwanda
 * ✉️  You can contact me at [irakramlaw@gmail.com](mailto:irakramlaw@gmail.com)
-* 🚀  I'm currently working on [Event Planner](http://http://todo-beta-rosy.vercel.app/)
+* 🚀  I'm currently working on Heart Disease Classifier
 * 🧠  I'm learning Cool Developer principles
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  My first favorite book was Da Vinc Code
