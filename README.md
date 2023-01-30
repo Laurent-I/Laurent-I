@@ -12,7 +12,7 @@ I love Maths and code ML in Python🐍. I love open-source and like to learn new
 * 🧠  I'm learning Deep Learning with TensorFlow
 * 🤝  I'm open to collaborating on Open Source Projects
 
-<a href="https://www.twitter.com/mrlaurent" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/I_6lack" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/IrakaramaLaw?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
