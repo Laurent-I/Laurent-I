@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is IRAKARAMA Laurent
 =========================================================================================================================================
 
-Maths and ML Engineer
+Maths Enthusiast and ML Engineer
 ------------------------------
 
 I love Maths and code ML in Python🐍. I love open-source and like to learn new things . I am addicted to books📖 with my favourite quote being "You don't lack enough time; you just lack enough focus" by Mark Manson
