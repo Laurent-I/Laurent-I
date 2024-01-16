@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical Hacker and ML Engineer
 ------------------------------
 
-I love Pentesting and coding ML in Python🐍. I love open-source and like to learn new things . I am addicted to books📖 with my favourite quote being "Time the one thing we need most but use worst."
+I love Pentesting and coding ML in Python🐍 and Backend in General. I love open-source and like to learn new things . I am addicted to books📖 with my favourite quote being "Time the one thing we need most but use worst."
 
 * 🌍  I'm based in Kigali, Rwanda
 * ✉️  You can contact me at [irakramlaw@gmail.com](mailto:irakramlaw@gmail.com)
 * 🚀  I'm currently working on A BIG PROJECT LOL.
-* 🧠  I'm learning Ethical Hacking and Pentesting.
+* 🧠  I'm learning Ethical Hacking and Backend with NestJs.
 * 🤝  I'm open to collaborating on Open Source Projects
 
 <a href="https://www.twitter.com/I_6lack" target="_blank" rel="noreferrer"><img
